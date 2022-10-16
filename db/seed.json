@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bauhaus Dessau",
+    "year": 1925,
+    "author": "Walter Gropius",
+    "location": "Dessau, Germany",
+    "description": "Translating to mean building house in English, Bauhaus was a German art school, founded by its own architect, Walter Gropius, operational in three consecutive locations from 1919 to 1933. Though as an educational facility the life of Bauhaus was somewhat short lived, its influence on the progression of modernism and modern architecture was decidedly profound. Bauhaus second incarnation, located in Dessau, is acclaimed to mark a pivotal point for the school - from fine and applied arts focused; to pioneer of architecture and industrial design."
+  },
+  {
+    "name": "Guggenheim Museum",
+    "year": 1939,
+    "author": "Frank Lloyd Wright",
+    "location": "New York City, USA",
+    "description": "Designed by Frank Lloyd Wright, the R Solomon Guggenheim Museum is an unconventional adaptation of modernist design principles. The structure's stunning exterior shows stacked, organic curves that swivel towards the sky. Contrasting the nature of the traditional Manhattan grid, this building was a revolutionary tenement within the modernist movement."
+  }
+]
