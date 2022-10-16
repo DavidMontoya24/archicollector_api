@@ -12,5 +12,47 @@
     "author": "Frank Lloyd Wright",
     "location": "New York City, USA",
     "description": "Designed by Frank Lloyd Wright, the R Solomon Guggenheim Museum is an unconventional adaptation of modernist design principles. The structure's stunning exterior shows stacked, organic curves that swivel towards the sky. Contrasting the nature of the traditional Manhattan grid, this building was a revolutionary tenement within the modernist movement."
+  },
+  {
+    "name": "Unité d'habitation",
+    "year": 1952,
+    "author": "Le Corbusier",
+    "location": "Marseille, France",
+    "description": "At a time in which the need for housing was at an unprecedented high, Unité d'habitation, completed in 1952, took Le Corbusier's famed words - a house is a “machine for living in” - and applied it at scale. Quintessentially brutalist in style, the monolithic building boasts a powerful presence and raw honesty. Heralding a focus on communal living for all the inhabitants to shop, play, live, and come together in a “vertical garden city”. Vitruvian in nature, it presents an architecture based on human proportions and scale - a recurring theme throughout Corbusier's writings, paintings and models.  The first building of its kind, Unité d'habitation marked the genesis of modern multi-residential design."
+  },
+  {
+    "name": "Villa Savoye",
+    "year": 1929,
+    "author": "Le Corbusier",
+    "location": "Poissy, France",
+    "description": "A modern take on a French farmhouse, Villa Savoye is both a celebration of and a response to the dawn of the machine age. Characterised by Le Corbusier's Five Points of architecture - columns; flat roof terrace; open-plan; ribbon windows; and free facade - this was the original blueprint for modern living. Acclaimed to have single-handedly transformed Le Corbusier's career, as well as the principles of the international architectural style, Villa Savoye is one of the most significant architectural precedents in history. "
+  },
+  {
+    "name": "Fallingwater House",
+    "year": 1935,
+    "author": "Frank Lloyd Wright",
+    "location": "Rural Pennsylvania, USA",
+    "description": "Frank Lloyd Wright quite literally redefined the relationship between man, architecture and nature with his iconic house, Fallingwater. Designed as the weekend getaway for the commissioning clients, parents to one of Wright's Taliesin Fellowship prodigies, the brief called for a house that celebrated the site's natural waterfall - presumably through framed views. Frank, however, transcended expectations and instead integrated the waterfall into the design of the house itself. "
+  },
+  {
+    "name": "Farnsworth House",
+    "year": 1945,
+    "author": "Mies van der Rohe",
+    "location": "Illinois, USA",
+    "description": "The house is an example of the International Style, which was first defined in America. It focused on the aesthetic and functional aspects of a building rather than the social or political aspects more closely associated with the European Modern architecture movement."
+  },
+  {
+    "name": "The Glass House",
+    "year": 1949,
+    "author": "Philip Johnson",
+    "location": "Connecticut, USA",
+    "description": "This building is The Farnsworth House's younger brother. The open-floor plan is a key trait of modern architecture, and here it's enclosed by floor-to-ceiling sheets of glass, fixed between black steel structural members."
+  },
+  {
+    "name": "Ronchamp Chapel",
+    "year": 1954,
+    "author": "Le Corbusier",
+    "location": "Ronchamp, France",
+    "description": "The curved masonry walls hold a dramatic, curved concrete roof in place, while a small gap allows a tiny slither of light to penetrate the interior. The weighty mass of the raw concrete contrasts with the light, glassy examples mentioned above, and this new face of Modern architecture would eventually give rise to Brutalism (which you can read more about below)."
   }
 ]
