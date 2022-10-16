@@ -1,6 +1,5 @@
 const express = require("express");
 const app = express();
-const db = require("./controllers");
 
 //midlewares
 app.use(express.json());
