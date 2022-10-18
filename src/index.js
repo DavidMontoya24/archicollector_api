@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
+let port = process.env.PORT || 8000;
 
 //midlewares
 app.use(express.json());
@@ -10,4 +11,4 @@ app.use(cors());
 // routes
 app.use(require("./routes/index"));
 
-app.listen(8000, () => console.log("server listening on port 8000"));
+app.listen(port, () => console.log(`server listening on port ${port}`));
