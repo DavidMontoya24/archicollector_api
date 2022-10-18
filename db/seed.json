@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Guggenheim Museum",
+    "year": 1939,
+    "author": "Frank Lloyd Wright",
+    "location": "New York City, USA",
+    "description": "Designed by Frank Lloyd Wright, the R Solomon Guggenheim Museum is an unconventional adaptation of modernist design principles. The structure's stunning exterior shows stacked, organic curves that swivel towards the sky. Contrasting the nature of the traditional Manhattan grid, this building was a revolutionary tenement within the modernist movement.",
+    "image": "https://images.adsttc.com/media/images/5037/de51/28ba/0d59/9b00/00bc/newsletter/stringio.jpg?1414230424, https://hawthorncreative.com/wp-content/uploads/2016/04/hawthorn-creative-hospitality-marketing-Project-Profile-The-Guggenheim-Museum-Brochure-feature.jpg, https://www.azuremagazine.com/wp-content/uploads/2020/04/Azure-Guggenheim-Virtual-Events.jpg"
+  },
+  {
+    "name": "Unité d'habitation",
+    "year": 1952,
+    "author": "Le Corbusier",
+    "location": "Marseille, France",
+    "description": "Vitruvian in nature, it presents an architecture based on human proportions and scale - a recurring theme throughout Corbusier's writings, paintings and models.  The first building of its kind, Unité d'habitation marked the genesis of modern multi-residential design.",
+    "image":
+      "https://france3-regions.francetvinfo.fr/image/RXVrnDEL3PcqFxWqW_GiO0NJoWE/1200x1200/regions/2020/06/09/5edf7c5287d10_cite_carte_postale-4125320.jpeg, https://www.inexhibit.com/wp-content/uploads/2022/01/Le-Corbusier-Unite-Habitation-Cite-Radieuse-Marseille-aerial-2.jpg, https://divisare-res.cloudinary.com/images/c_limit,f_auto,h_2000,q_auto,w_3000/v1/project_images/3182829/Unite_Habitation_Marseille__1_/le-corbusier-cemal-emden-unite-d-habitation-marseille.jpg"
+  },
+  {
+    "name": "Villa Savoye",
+    "year": 1929,
+    "author": "Le Corbusier",
+    "location": "Poissy, France",
+    "description": "Characterised by Le Corbusier's Five Points of architecture - columns; flat roof terrace; open-plan; ribbon windows; and free facade - this was the original blueprint for modern living. Acclaimed to have single-handedly transformed Le Corbusier's career, as well as the principles of the international architectural style, Villa Savoye is one of the most significant architectural precedents in history.",
+    "image":
+      "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/09/Villa-Savoye-House-Le-Corbusier-building-Poissy-France-ArchEyes-exterior-facade.jpg?fit=960%2C640&ssl=1, https://images.adsttc.com/media/images/55e6/549a/8450/b5e7/a600/0586/medium_jpg/1288061919-villa-savoye-4-1000x664.jpg?1441158293, https://img.interempresas.net/fotos/1763914.jpeg"
+  },
+  {
+    "name": "Fallingwater House",
+    "year": 1935,
+    "author": "Frank Lloyd Wright",
+    "location": "Rural Pennsylvania, USA",
+    "description": "Frank Lloyd Wright quite literally redefined the relationship between man, architecture and nature with his iconic house, Fallingwater. Designed as the weekend getaway for the commissioning clients, parents to one of Wright's Taliesin Fellowship prodigies, the brief called for a house that celebrated the site's natural waterfall - presumably through framed views. Frank, however, transcended expectations and instead integrated the waterfall into the design of the house itself.",
+    "image":
+      "https://franklloydwright.org/wp-content/uploads/2017/02/fallingwater.jpg?w=144, https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ldi092437-preview-1563790339.jpg?resize=480:*, https://pt.wikiarquitectura.com/wp-content/uploads/2017/01/Fallingwater-Frank-Lloyd-Wright_31.jpg"
+  }
+]
